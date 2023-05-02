@@ -1,6 +1,5 @@
 
 Welcome to Jupyter Notebook
-Python
-R
-SQL
-SPSS
+scikit learn
+TensorFlow
+PyTorch
